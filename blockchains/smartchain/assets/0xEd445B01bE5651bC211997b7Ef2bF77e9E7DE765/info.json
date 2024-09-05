@@ -1,0 +1,21 @@
+{
+    "name": "KHNUM",
+    "type": "BEP20",
+    "symbol": "KHNUM",
+    "decimals": 18,
+    "website": "https://www.khnumglobal.org/",
+    "description": "Khnum, the token that drives innovation and transforms lives in the global digital ecosystem.",
+    "explorer": "https://bscscan.com/token/0xEd445B01bE5651bC211997b7Ef2bF77e9E7DE765",
+    "status": "active",
+    "id": "0xEd445B01bE5651bC211997b7Ef2bF77e9E7DE765",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/khunm"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/kuhnm/"
+        }
+    ]
+}
